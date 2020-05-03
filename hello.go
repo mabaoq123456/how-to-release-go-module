@@ -16,7 +16,7 @@ func test() {
 	fmt.Println("test")
 }
 
-// 3.0.1 测试 1111
+// 3.0.2 测试 1111
 func Test1() {
-	fmt.Println("test1 3.0.1")
+	fmt.Println("test1 3.0.2")
 }
