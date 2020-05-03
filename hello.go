@@ -17,5 +17,5 @@ func test() {
 }
 
 func Test1() {
-	fmt.Println("test1 1.0.2")
+	fmt.Println("test1 2.0.1")
 }
