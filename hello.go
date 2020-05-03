@@ -11,3 +11,11 @@ func Hello() {
 func Bye() {
 	fmt.Println("Bye go mod!")
 }
+
+func test() {
+	fmt.Println("test")
+}
+
+func Test1() {
+	fmt.Println("test1")
+}
